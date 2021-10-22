@@ -10,4 +10,4 @@ Application Name: __Donation Coordination System__
 | 3  | Lee Sin Meai  | Donor Module  | List ADT : Node  |
 | 4  | Wong Zi Jian  | Campaign Module  | List ADT : Array  |
 
-Classes: `Donation`, `DonationItem`, `Campaign`, `Donee`, `Donor`
+Classes: `Donation`, `DonationItem`, `Campaign`, `Location`,  `Donee`, `Donor`
